@@ -1,14 +1,14 @@
 # Why Deep learning?:
 
-- Data growth1
+- Data growth
 - Hardware advancements
 - Python and open source ecosystem
 - Cloud and AI - easy availability 
 
 # Neuron
-	• A layer consists of small individual units called neurons. 
-	• An artificial neuron is similar to a biological neuron. 
-	• It receives input from the other neurons, performs some processing, and produces an output.
+- A layer consists of small individual units called neurons. 
+- An artificial neuron is similar to a biological neuron. 
+- It receives input from the other neurons, performs some processing, and produces an output.
 <a href="https://www.analyticsvidhya.com/blog/2021/03/basics-of-neural-network/">Blog</a>
 
 # Neural Network
@@ -17,11 +17,11 @@
 	<img src="/images/nn.png" height=300/>
 </p>
 
-	• Consists of layers
-	• Types :
-		○ Input
-		○ Output
-		○ Hidden
+- Consists of layers
+- Types :
+	- Input
+	- Output
+	- Hidden
 
 # Backward error Propagation:
 	• Feedback from supervisor to output to hidden to input layers
