@@ -1,6 +1,6 @@
 # Why Deep learning?:
 
-- Data growth
+- Data growth1
 - Hardware advancements
 - Python and open source ecosystem
 - Cloud and AI - easy availability 
