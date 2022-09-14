@@ -45,6 +45,7 @@
 <table>
 
 ## LSTM:
+
 - Long Short Term Memory
 - Two hidden states : Long / short
 - Train the network to retain context for long and short term
@@ -52,6 +53,7 @@
 - <a href="http://colah.github.io/posts/2015-08-Understanding-LSTMs/">Article</a>
 
 ## GRU
+
 - Only one state for long & short term memory
 - Light weight LSTM
 - 2 gates : update , reset
