@@ -1,8 +1,9 @@
 # Why Deep learning?:
-	• Data growth
-	• Hardware advancements
-	• Python and open source ecosystem
-    • Cloud and AI - easy availability 
+
+- Data growth
+- Hardware advancements
+- Python and open source ecosystem
+- Cloud and AI - easy availability 
 
 # Neuron
 	• A layer consists of small individual units called neurons. 
