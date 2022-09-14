@@ -29,20 +29,20 @@
 
 ## Types of RNN:
 
-<table>
-<tr>
-	<td>Many to Many</td>	
-	<td>Language Translation/td>
-</tr>
-<tr>
-	<td>Many to One</td>	
-	<td>Sentiment Analysis</td>
-</tr>
-<tr>
-	<td>One to Many</td>	
-	<td>Music generation, poetry writing</td>
-</tr>
-<table>
+	<table>
+	<tr>
+		<td>Many to Many</td>	ß
+		<td>Language Translation/td>
+	</tr>
+	<tr>
+		<td>Many to One</td>	
+		<td>Sentiment Analysis</td>
+	</tr>
+	<tr>
+		<td>One to Many</td>	
+		<td>Music generation, poetry writing</td>
+	</tr>
+	<table>
 
 ## LSTM:
 
