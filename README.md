@@ -27,7 +27,7 @@
 - Feedback from supervisor to output to hidden to input layers
 
 # Epoch:
-- # of iteration on training sample
+- No. of iteration on training sample
 - 1 Epoch = 1 iteration on all of the training samples
 
 
